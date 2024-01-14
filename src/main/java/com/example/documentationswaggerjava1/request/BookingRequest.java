@@ -14,5 +14,4 @@ public class BookingRequest {
     private String flightNumber;
 
     private String journeyDate;
-
 }

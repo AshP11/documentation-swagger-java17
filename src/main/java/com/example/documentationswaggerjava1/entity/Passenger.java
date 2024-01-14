@@ -1,7 +1,9 @@
 package com.example.documentationswaggerjava1.entity;
 
-import lombok.Data;
+import lombok.*;
 
+@AllArgsConstructor
+@NoArgsConstructor
 @Data
 public class Passenger {
 
